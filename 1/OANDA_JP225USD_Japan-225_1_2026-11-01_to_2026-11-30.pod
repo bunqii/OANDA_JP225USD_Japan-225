@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_JP225USD_Japan-225_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_JP225USD_Japan-225_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 7342,
+  "row_count": 8866,
   "first_candle": {
     "time": 1793574000,
     "Time": "2026-11-01T23:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 4
   },
   "last_candle": {
-    "time": 1794206100,
-    "Time": "2026-11-09T06:35:00.000000000Z",
-    "open": 58805.7,
-    "high": 58848.2,
-    "low": 58800.7,
-    "close": 58833.2,
-    "volume": 155
+    "time": 1794301200,
+    "Time": "2026-11-10T09:00:00.000000000Z",
+    "open": 60448.2,
+    "high": 60448.2,
+    "low": 60195.7,
+    "close": 60233.2,
+    "volume": 879
   },
   "csv_file": "OANDA_JP225USD_Japan-225_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 7342,
+  "csv_row_count": 8866,
   "csv_first_candle": {
     "time": 1793574000,
     "Time": "2026-11-01T23:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 4
   },
   "csv_last_candle": {
-    "time": 1794206100,
-    "Time": "2026-11-09T06:35:00.000000000Z",
-    "open": 58805.7,
-    "high": 58848.2,
-    "low": 58800.7,
-    "close": 58833.2,
-    "volume": 155
+    "time": 1794301200,
+    "Time": "2026-11-10T09:00:00.000000000Z",
+    "open": 60448.2,
+    "high": 60448.2,
+    "low": 60195.7,
+    "close": 60233.2,
+    "volume": 879
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-09T06:36:58.000000000Z",
-  "generated_at": "2026-11-09T06:36:58.000000000Z",
+  "verified_at": "2026-11-10T09:01:42.000000000Z",
+  "generated_at": "2026-11-10T09:01:42.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-06T21:54:00Z",
-        "to": "2026-11-09T06:36:00Z",
+        "from": "2026-11-09T06:30:00Z",
+        "to": "2026-11-10T09:01:00Z",
         "code": 200,
         "msg": "OK"
       }
